@@ -1,6 +1,6 @@
 ## Welcome to Groupd 31's Project Site
 
-You can use the [Project 0](https://github.com/lilypollreis/CPSC481G31/project0.md) to maintain and preview the content for your website in Markdown files.
+You can use the [Project 0](https://github.com/lilypollreis/CPSC481G31/project0.html) to maintain and preview the content for your website in Markdown files.
 You can use the [Project 1](https://github.com/lilypollreis/CPSC481G31/project1.md) to maintain and preview the content for your website in Markdown files.
 
 
